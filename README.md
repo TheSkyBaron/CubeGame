@@ -4,7 +4,7 @@ Vehicle Editor type game prototype
 
 # How to Use
 
-For demo:
+For demo: https://theskybaron.itch.io/armoria
 
 Project files will be under Project folder
 
