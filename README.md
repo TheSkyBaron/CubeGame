@@ -4,11 +4,9 @@ Vehicle Editor type game prototype
 
 # How to Use
 
-In Precompiled Demo folder, Run CubeGame.exe
+For demo:
 
 Project files will be under Project folder
-
-Older versions will be under Archive folder
 
 # Work in progress features
 
