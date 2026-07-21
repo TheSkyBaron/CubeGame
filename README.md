@@ -6,7 +6,7 @@ Vehicle Editor type game prototype
 
 For demo: https://theskybaron.itch.io/armoria
 
-Project files will be under Project folder
+Project files will be under Assets folder
 
 # Work in progress features
 
