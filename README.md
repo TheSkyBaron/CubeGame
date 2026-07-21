@@ -18,7 +18,7 @@ Settings (not created UI yet but it has settings)
 
 Modding (Framework is in development)
 
-# Controlls
+# Controls
 Esc => Pause menu
 
 Ctrl + a/s/d/w => Rotates Block
